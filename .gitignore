@@ -1,2 +1,8 @@
 generate_prompt.py
 output/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
